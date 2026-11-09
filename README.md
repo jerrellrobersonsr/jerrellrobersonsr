@@ -154,7 +154,7 @@ My current academic and professional goals include:
 
 ## Connect With Me
 
-- **LinkedIn:** [Professional Profile](https://www.linkedin.com/)
+- **LinkedIn:** [Professional Profile](https://www.linkedin.com/jerrellroberson)
 - **GitHub:** Explore my repositories and technical projects
 
 ---
