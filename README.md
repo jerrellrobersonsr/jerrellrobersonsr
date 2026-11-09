@@ -1,122 +1,130 @@
 
-# Jerrell M Roberson, Sr. 
+# Jerrell M. Roberson, Sr.
 
-### Cybersecurity Engineer | Computer Science & AI Graduate Student
+### Cybersecurity Engineer | Penetration Tester | Computer Science & AI Graduate Student
 
-Cybersecurity professional with extensive experience in information security engineering, penetration testing, vulnerability management, and security risk assessments. Currently pursuing a **Master of Science in Computer Science & Artificial Intelligence at Boston University**, with an expected graduation date of Fall 2027.
+Welcome to my GitHub portfolio. I have over 20 years of experience in cybersecurity, including penetration testing, security engineering, vulnerability assessments, and information security risk management.
 
-My professional interests focus on the intersection of **cybersecurity, software engineering, and artificial intelligence**. I am expanding my computer science knowledge through graduate studies, technical projects, and independent research.
+I am currently pursuing a Master of Science in Computer Science and Artificial Intelligence at Boston University. My focus is on building stronger programming and computer science skills while exploring how artificial intelligence and machine learning can be applied to cybersecurity.
+
+---
+
+## Portfolio Navigation
+
+Use the links below to explore my professional background, academic work, and technical development.
+
+| Resource | Description |
+|----------|-------------|
+| [Professional Resume](Jerrell_Roberson_Sr_Resume.pdf) | Education, professional experience, technical skills, and certifications |
+| [GitHub Projects](https://github.com/jerrellrobersonsr?tab=repositories) | Programming assignments, technical projects, and coursework |
+| [BU CS Foundations Bootcamp](https://github.com/jerrellrobersonsr/bu-bootcamp) | Boston University computer science coursework |
+| [Reflection and Future Growth](Reflection.md) | Portfolio revisions, lessons learned, and future development goals |
 
 ---
 
 ## About Me
 
-My professional background includes cybersecurity engineering, penetration testing, security architecture assessments, and vulnerability management within complex enterprise and federal environments.
+My professional background is primarily in cybersecurity, where I have worked on federal information systems, enterprise networks, web applications, and cloud environments.
 
-Throughout my career, I have worked with organizations to identify security weaknesses, evaluate technical risks, and strengthen information system security.
+Much of my experience involves identifying security weaknesses, evaluating technical risks, and communicating findings to technical teams and management. I have also worked with security compliance frameworks, vulnerability management programs, and security assessment processes.
 
-As a graduate student at Boston University, I am building on this experience by developing deeper knowledge of computer science fundamentals, programming, software development, and artificial intelligence.
+Although cybersecurity has been my primary career focus, I have always had an interest in programming and understanding how systems work. Returning to graduate school gives me an opportunity to strengthen those skills and explore new areas of computer science.
 
-My long-term objective is to combine my cybersecurity experience with advanced computing and AI technologies to develop innovative approaches to security challenges.
+My current interests include:
+
+- Computer science and software engineering
+- Penetration testing and vulnerability research
+- Network and systems programming
+- Security automation and scripting
+- Artificial intelligence and machine learning
+- AI security and secure software development
+- Cloud security and risk management
 
 ---
 
-## Technical Expertise
+## Technical Skills
 
-### Cybersecurity Engineering
-- Penetration Testing and Vulnerability Assessments
-- Network, Web Application, and API Security
-- Security Architecture and Risk Assessments
-- Vulnerability Management and Continuous Monitoring
-- Cloud Security: AWS and Microsoft Azure
+### Programming and Scripting
+
+| Language | Areas of Interest and Experience |
+|----------|----------------------------------|
+| Python | Scripting, automation, data processing, and security tools |
+| Java | Object-oriented programming, application development, and client/server programming |
+| C/C++ | Systems programming, networking, memory management, and socket programming |
+| PowerShell | Windows administration, scripting, and security automation |
+| Bash | Linux administration, scripting, and automation |
+| SQL | Database queries, data analysis, and information retrieval |
+
+### Cybersecurity
+
+- Network, web application, and API penetration testing
+- Vulnerability assessments and security testing
+- Active Directory security assessments
+- Security engineering and architecture reviews
+- Cloud security assessments involving AWS and Azure
+- Risk assessments and vulnerability management
 - NIST Risk Management Framework (RMF)
-- Security Compliance: FISMA, FedRAMP, and NIST SP 800-53
+- Security control assessments and continuous monitoring
+- Secure configuration reviews and compliance assessments
 
-### Programming and Software Development
-- **Languages:** Python, C, Java, SQL
-- **Scripting:** Bash, PowerShell
-- **Operating Systems:** Linux, Windows
-- **Development Tools:** Git, GitHub, Visual Studio Code
-- **Technical Areas:** Network Programming, Systems Programming, Software Testing, and Automation
+### Security Tools and Technologies
 
-### Artificial Intelligence and Computer Science
-- Artificial Intelligence and Machine Learning
-- Algorithms and Data Structures
-- Operating Systems and Computer Architecture
-- Secure Software Development
-- AI Security and Adversarial Machine Learning
-- Security Automation and Intelligent Threat Analysis
-
----
-
-## Academic and Technical Interests
-
-My graduate studies and independent technical interests include:
-
-**Systems and Network Programming**
-
-Understanding operating systems, network communication, memory management, and client-server architectures through practical programming exercises.
-
-**Cybersecurity Automation**
-
-Developing scripts and tools that automate security assessments, analyze vulnerabilities, and improve technical workflows.
-
-**Artificial Intelligence and Machine Learning**
-
-Exploring machine learning concepts and their potential applications in cybersecurity, including threat detection, vulnerability prioritization, and security analytics.
-
-**Secure Software Engineering**
-
-Studying software design, application security, and programming techniques that improve software reliability and security.
-
----
-
-## Projects and Technical Development
-
-This GitHub portfolio serves as a collection of my academic projects, technical experiments, and independent development work.
-
-My areas of project development include:
-
-- **Network Programming:** TCP/IP communication, socket programming, and client-server applications.
-- **Systems Programming:** Applications developed in C to explore operating system and networking concepts.
-- **Security Automation:** Python-based utilities for security analysis and technical reporting.
-- **Software Development:** Java applications focused on programming fundamentals and object-oriented design.
-- **AI and Machine Learning:** Future projects exploring intelligent security analysis and automation.
-
-Completed projects will be published with documentation describing their objectives, implementation, technologies, and lessons learned.
+- **Penetration Testing:** Nmap, Burp Suite, Metasploit, Wireshark, Nikto
+- **Vulnerability Management:** Tenable Security Center, Nessus, IBM AppScan
+- **Operating Systems:** Linux, Kali Linux, Windows, Windows Server
+- **Cloud Platforms:** Amazon Web Services (AWS), Microsoft Azure
+- **Development Tools:** Git, GitHub, Visual Studio Code, Jupyter Notebook
+- **Networking:** TCP/IP, DNS, HTTP/HTTPS, SSH, and client/server communications
 
 ---
 
 ## Professional Experience
 
 ### Senior Information System Security Engineer
-**Executive Office for United States Attorneys (EOUSA)**  
-June 2025 – Present
+**Efiia Creations, LLC | June 2025 – July 2026**
 
-- Support enterprise cybersecurity engineering and security risk management activities.
-- Conduct security assessments and evaluate technical vulnerabilities.
-- Support security authorization, compliance, and continuous monitoring activities.
-- Assess security risks across enterprise systems and infrastructure.
+- Supported cybersecurity engineering and security assessments for federal information systems.
+- Evaluated security controls, system configurations, vulnerabilities, and technical risks.
+- Worked with NIST RMF requirements, security documentation, and continuous monitoring activities.
+- Collaborated with technical teams to identify security concerns and recommend risk mitigation strategies.
 
-### Lead Penetration Tester
-**Executive Office for United States Attorneys (EOUSA)**  
-December 2016 – June 2025
+### Cybersecurity Engineering / Lead Penetration Tester
+**August 2016 – June 2025**
 
-- Led penetration testing and technical security assessments.
-- Evaluated network infrastructure, applications, and enterprise security configurations.
-- Identified vulnerabilities and communicated technical risks to stakeholders.
-- Supported vulnerability management and security assessment reporting.
+- Conducted penetration testing and vulnerability assessments against enterprise networks, web applications, and supporting infrastructure.
+- Evaluated security weaknesses involving authentication, access controls, system configurations, and application security.
+- Used commercial and open-source tools to identify and validate security vulnerabilities.
+- Documented technical findings and communicated security risks to engineers, system owners, and management.
+- Supported federal cybersecurity assessment and security engineering activities.
+
+### Earlier Cybersecurity Experience
+
+Before these positions, I held several cybersecurity and information assurance roles supporting federal agencies and enterprise environments.
+
+My responsibilities included:
+
+- Web application and infrastructure penetration testing
+- Security assessments and vulnerability analysis
+- Information assurance and security engineering
+- Security compliance and risk management
+- Technical project leadership and coordination
+
+Additional employment details are available in my
+[professional resume](Jerrell_Roberson_Sr_Resume.pdf).
 
 ---
 
 ## Education
 
-**Boston University**  
-Master of Science in Computer Science & Artificial Intelligence  
-*Expected Completion: Fall 2027*
+### Boston University
+**Master of Science in Computer Science and Artificial Intelligence**
 
-**Bachelor of Business Administration**  
-Management Information Systems
+Expected Completion: Fall 2027
+
+My graduate studies focus on developing a stronger foundation in computer science, programming, software development, and artificial intelligence.
+
+### Delta State University
+**Bachelor of Business Administration in Management Information Systems**
 
 ---
 
@@ -129,35 +137,106 @@ Management Information Systems
 
 ---
 
-## Professional Development Goals
+## Projects and Technical Development
 
-My current academic and professional goals include:
+My GitHub repositories include academic programming assignments and technical work related to computer science and cybersecurity.
 
-1. Complete my master's degree in Computer Science & Artificial Intelligence.
-2. Strengthen my knowledge of algorithms, data structures, and software engineering.
-3. Develop advanced programming skills in Python, C, and Java.
-4. Gain practical experience developing AI and machine learning applications.
-5. Explore the integration of artificial intelligence into cybersecurity engineering.
-6. Build a portfolio of well-documented technical projects demonstrating continued professional growth.
+As I progress through my graduate program, I plan to add more projects that demonstrate how I approach programming, problem-solving, and technical challenges.
+
+### Boston University Computer Science Coursework
+
+**Repository:** [BU CS Foundations Bootcamp](https://github.com/jerrellrobersonsr/bu-bootcamp)
+
+This repository contains coursework and programming exercises completed as part of my computer science studies.
+
+The work provides an opportunity to strengthen my understanding of programming concepts, software development, and computer science fundamentals.
+
+### Java Programming
+
+My Java coursework has included:
+
+- Object-oriented programming
+- Classes, interfaces, and inheritance
+- Exception handling
+- Collections and generics
+- Client/server programming
+- Application logic and debugging
+
+One project involved developing a client/server Connect Four application, providing practical experience with network communication and application design.
+
+### C and Systems Programming
+
+My systems programming work includes topics such as:
+
+- TCP socket programming
+- Client/server communication
+- Operating system concepts
+- Memory management
+- Network programming
+- Debugging and program execution
+
+I am interested in continuing to build networking and security-related applications using C.
+
+### Python and Security Automation
+
+Python is one of the languages I use for scripting and automation.
+
+Areas of interest include:
+
+- Processing network scan results
+- Parsing structured data
+- Automating repetitive security tasks
+- Working with files and databases
+- Developing small security utilities
+
+### Artificial Intelligence and Machine Learning
+
+As I continue my graduate studies, I plan to add projects involving:
+
+- Python-based machine learning
+- Data preparation and analysis
+- AI model development and evaluation
+- AI security and responsible AI practices
+- Applying AI to cybersecurity problems
 
 ---
 
-## Portfolio Navigation
+## Professional and Academic Goals
 
-| Resource | Description |
-|----------|-------------|
-| [Professional Resume](Jerrell_Roberson_Sr_Resume.pdf) | Education, professional experience, technical skills, and certifications |
-| [Portfolio Reflection](Reflection.md) | Portfolio development decisions and future learning goals |
-| [GitHub Repositories](?tab=repositories) | Academic projects and independent technical development |
+My immediate goal is to continue developing my programming and computer science skills while completing my graduate degree at Boston University.
+
+I want to become more proficient in designing applications, understanding how software operates, and applying programming concepts to real technical problems.
+
+I am also interested in how artificial intelligence and machine learning can improve cybersecurity processes.
+
+Some areas I would like to explore further include:
+
+- Automated vulnerability identification
+- Threat detection and security analytics
+- Security testing automation
+- AI-assisted security assessments
+- Secure development of AI-enabled applications
+
+Over time, I want to combine my professional cybersecurity experience with the technical knowledge I am gaining through my graduate studies.
+
+---
+
+## Reflection and Future Growth
+
+Building and updating this portfolio has helped me think more about how I present my professional experience alongside my academic work.
+
+My resume provides an overview of my qualifications, while my GitHub repositories give me a place to demonstrate my programming skills and technical development.
+
+As I complete additional coursework, I plan to update my repositories, improve project documentation, and add examples of the work I have completed.
+
+For more information, see my
+[Reflection and Future Growth](Reflection.md).
 
 ---
 
 ## Connect With Me
 
-- **LinkedIn:** [Professional Profile](https://www.linkedin.com/jerrellroberson)
-- **GitHub:** Explore my repositories and technical projects
+- **GitHub:** [github.com/jerrellrobersonsr](https://github.com/jerrellrobersonsr)
+- **Professional Resume:** [View Resume](Jerrell_Roberson_Sr_Resume.pdf)
 
----
-
-*Advancing the intersection of cybersecurity, computer science, and artificial intelligence through continuous learning, technical development, and practical application.*
-
+Thank you for visiting my GitHub portfolio.
