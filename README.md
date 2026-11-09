@@ -147,7 +147,7 @@ My current academic and professional goals include:
 | Resource | Description |
 |----------|-------------|
 | [Professional Resume](Jerrell_Roberson_Sr_Resume.pdf) | Education, professional experience, technical skills, and certifications |
-| [Portfolio Reflection](REFLECTION.md) | Portfolio development decisions and future learning goals |
+| [Portfolio Reflection](Reflection.md) | Portfolio development decisions and future learning goals |
 | [GitHub Repositories](?tab=repositories) | Academic projects and independent technical development |
 
 ---
